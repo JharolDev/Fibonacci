@@ -1,6 +1,6 @@
 ### Suma de numeros 
 def fibonacci ( n) : 
-// declaracion de numeros 
+###declaracion de numeros 
   if n <= 1:
 
            return n
